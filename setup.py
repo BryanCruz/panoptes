@@ -23,7 +23,7 @@ setup(
         'boto3==1.9.28',
         'click==7.0',
         'colorama==0.4.0',
-        'PyYAML==3.13',
+        'PyYAML==5.1',
         'Jinja2==2.10',
     ],
     keywords='panoptes aws security analysis cloud devops',
